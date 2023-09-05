@@ -1,4 +1,4 @@
-<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I am Pranav </h1>
+<h1 align="center">Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35">, I am pranav </h1>
 
 <h3 align="center"> 💻 Full Stack Developer | 📖 Tech enthusiast</h3>
 
@@ -11,12 +11,8 @@
   </a>
   &nbsp;
   &nbsp;
-    <!--
-  <a title="DEV.to" href="https://dev.to/pradeexsu">
-    <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/84_Dev-512.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
+  
+  
 
   <!--
   <a title="Medium" href="https://medium.com/@sutharp777">
@@ -36,16 +32,10 @@
   </a>
   &nbsp;
   &nbsp;
-   <!--
-  <a title="Stackoverflow" href="https://stackoverflow.com/users/12537691/pradeexsu?tab=profile">
-    <img src="https://cdn0.iconfinder.com/data/icons/social-media-and-logos-11/32/logo_stackoverflow_Stack_overflow-64.png" width="50" height="50" />
-  </a>
-  &nbsp;
-  &nbsp;
-   <!--
-  <a title="Twitter" href="https://twitter.com/pradeexsu">
-    <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Twitter_bird-64.png" width="50" height="50" />
-  </a>
+  
+  
+  
+  
 </p>
 
 ### A little more about me...
@@ -53,9 +43,10 @@
 ```js
 const jake = Developer(
   (codes = listOf(
-    'C',
+    'Typescript',
     'JavaScript',
     'Java',
+    'Kotlin',
     'Python',
     'C++',
     'R',
@@ -80,7 +71,7 @@ const jake = Developer(
   )),
   (hobbies = listOf(
     Hobby('Fencing'),
-    Hobby('Reading Manhua'),
+    Hobby('Reading Mahua'),
     Hobby('Mountain Trekking'),
     Hobby('Aerospace and Defence'),
   )),
