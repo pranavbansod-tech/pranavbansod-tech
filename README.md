@@ -21,13 +21,13 @@
   &nbsp;
   &nbsp;
   -->
-  <a title="LinkedIn" href="www.linkedin.com/in/techemperor">
+  <a title="LinkedIn" href="www.linkedin.com/in/pranavbansod">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_LinkedIn-512.png" width="50" height="50" />
   </a>
   &nbsp;
   &nbsp;
   
-  <a title="Email" href="mailto:bt20cse183@iiitn.ac.in">
+  <a title="Email" href="mailto:pranavbansod22@gmail.com">
     <img src="https://cdn4.iconfinder.com/data/icons/social-media-and-logos-11/32/Logo_Gmail_envelope_letter_email-64.png" width="50" height="50" />
   </a>
   &nbsp;
@@ -41,15 +41,15 @@
 ### A little more about me...
 
 ```js
-const jake = Developer(
+const Pranav = Developer(
   (codes = listOf(
-    'Typescript',
+    'React',
     'JavaScript',
-    'Java',
+    'AWS',
     'Kotlin',
     'Python',
     'C++',
-    'R',
+    'SQL',
     'Bash',
   )),
   (tools = listOf(
@@ -71,7 +71,7 @@ const jake = Developer(
   )),
   (hobbies = listOf(
     Hobby('Fencing'),
-    Hobby('Reading Mahua'),
+    Hobby('Reading Comics'),
     Hobby('Mountain Trekking'),
     Hobby('Aerospace and Defence'),
   )),
